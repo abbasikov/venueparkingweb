@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SideBarContainer #render initial state 1`] = `
+<div
+  class="sidebar sidebar-opposite sidebar-default sidebar-separate"
+>
+  <div
+    class="sidebar-content"
+  >
+    <div
+      class="sidebar-category"
+    >
+      <div
+        class="category-content"
+      >
+        <form
+          action="#"
+        >
+          <div
+            class="has-feedback has-feedback-left"
+          >
+            <input
+              class="form-control"
+              placeholder="Search"
+              type="search"
+            />
+            <div
+              class="form-control-feedback"
+            >
+              <i
+                class="icon-search4 text-size-base text-muted"
+              />
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+`;

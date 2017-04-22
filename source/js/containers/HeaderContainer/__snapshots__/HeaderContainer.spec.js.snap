@@ -1,0 +1,452 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeaderContainer #render initial state 1`] = `
+<div
+  class="navbar navbar-inverse navbar-fixed-top"
+>
+  <div
+    class="navbar-boxed"
+  >
+    <div
+      class="navbar-header"
+    >
+      <a
+        class="navbar-brand"
+        href="#"
+      >
+        <div>
+          VenueParking
+        </div>
+      </a>
+      <ul
+        class="nav navbar-nav visible-xs-block"
+      >
+        <li>
+          <a
+            class="sidebar-mobile-main-toggle"
+          >
+            <i
+              class="icon-search4"
+            />
+          </a>
+        </li>
+        <li>
+          <a
+            class="sidebar-mobile-main-toggle"
+          >
+            <i
+              class="icon-paragraph-justify3"
+            />
+          </a>
+        </li>
+      </ul>
+      <nav
+        class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right"
+      >
+        <a
+          href="#"
+        >
+          <i
+            class="icon-home2"
+          />
+          <span>
+            Home
+          </span>
+        </a>
+        <a
+          href="#"
+        >
+          <i
+            class="icon-user-plus"
+          />
+          <span>
+            My Profile
+          </span>
+        </a>
+        <a
+          href="#"
+        >
+          <i
+            class="icon-cog5"
+          />
+          <span>
+            Account settings
+          </span>
+        </a>
+        <a
+          href="#"
+        >
+          <i
+            class="icon-switch2"
+          />
+          <span>
+            Logout
+          </span>
+        </a>
+      </nav>
+    </div>
+    <div
+      class="navbar-collapse collapse"
+      id="navbar-mobile"
+    >
+      <ul
+        class="nav navbar-nav navbar-right"
+      >
+        <li
+          class="dropdown language-switch"
+        >
+          <a
+            class="dropdown-toggle"
+          >
+            <span>
+              Strategic Marketing
+            </span>
+            <span
+              class="caret"
+            />
+          </a>
+          <ul
+            class="dropdown-menu"
+          >
+            <li>
+              <a>
+                Cognitive Science
+              </a>
+            </li>
+            <li
+              class="divider"
+            />
+            <li>
+              <a>
+                Computer Programming
+              </a>
+            </li>
+          </ul>
+        </li>
+        <li
+          class="dropdown"
+        >
+          <a
+            aria-expanded="false"
+            class="dropdown-toggle"
+            href="#"
+          >
+            <i
+              class="icon-bubbles4"
+            />
+            <span
+              class="visible-xs-inline-block position-right"
+            >
+              Messages
+            </span>
+            <span
+              class="badge bg-warning-400"
+            >
+              2
+            </span>
+          </a>
+          <div
+            class="dropdown-menu dropdown-content width-350"
+          >
+            <div
+              class="dropdown-content-heading"
+            >
+              Messages
+              <ul
+                class="icons-list"
+              >
+                <li>
+                  <a
+                    href="#"
+                  >
+                    <i
+                      class="icon-compose"
+                    />
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <ul
+              class="media-list dropdown-content-body"
+            >
+              <li
+                class="media"
+              >
+                <div
+                  class="media-left"
+                >
+                  <img
+                    alt=""
+                    class="img-circle img-sm"
+                    src="../assets/images/placeholder.jpg"
+                  />
+                  <span
+                    class="badge bg-danger-400 media-badge"
+                  >
+                    5
+                  </span>
+                </div>
+                <div
+                  class="media-body"
+                >
+                  <a
+                    class="media-heading"
+                    href="#"
+                  >
+                    <span
+                      class="text-semibold"
+                    >
+                      James Alexander
+                    </span>
+                    <span
+                      class="media-annotation pull-right"
+                    >
+                      04:58
+                    </span>
+                  </a>
+                  <span
+                    class="text-muted"
+                  >
+                    who knows, maybe that would be the best thing for me...
+                  </span>
+                </div>
+              </li>
+              <li
+                class="media"
+              >
+                <div
+                  class="media-left"
+                >
+                  <img
+                    alt=""
+                    class="img-circle img-sm"
+                    src="../assets/images/placeholder.jpg"
+                  />
+                  <span
+                    class="badge bg-danger-400 media-badge"
+                  >
+                    4
+                  </span>
+                </div>
+                <div
+                  class="media-body"
+                >
+                  <a
+                    class="media-heading"
+                    href="#"
+                  >
+                    <span
+                      class="text-semibold"
+                    >
+                      Margo Baker
+                    </span>
+                    <span
+                      class="media-annotation pull-right"
+                    >
+                      12:16
+                    </span>
+                  </a>
+                  <span
+                    class="text-muted"
+                  >
+                    That was something he was unable to do because...
+                  </span>
+                </div>
+              </li>
+              <li
+                class="media"
+              >
+                <div
+                  class="media-left"
+                >
+                  <img
+                    alt=""
+                    class="img-circle img-sm"
+                    src="../assets/images/placeholder.jpg"
+                  />
+                </div>
+                <div
+                  class="media-body"
+                >
+                  <a
+                    class="media-heading"
+                    href="#"
+                  >
+                    <span
+                      class="text-semibold"
+                    >
+                      Jeremy Victorino
+                    </span>
+                    <span
+                      class="media-annotation pull-right"
+                    >
+                      22:48
+                    </span>
+                  </a>
+                  <span
+                    class="text-muted"
+                  >
+                    But that would be extremely strained and suspicious...
+                  </span>
+                </div>
+              </li>
+              <li
+                class="media"
+              >
+                <div
+                  class="media-left"
+                >
+                  <img
+                    alt=""
+                    class="img-circle img-sm"
+                    src="../assets/images/placeholder.jpg"
+                  />
+                </div>
+                <div
+                  class="media-body"
+                >
+                  <a
+                    class="media-heading"
+                    href="#"
+                  >
+                    <span
+                      class="text-semibold"
+                    >
+                      Beatrix Diaz
+                    </span>
+                    <span
+                      class="media-annotation pull-right"
+                    >
+                      Tue
+                    </span>
+                  </a>
+                  <span
+                    class="text-muted"
+                  >
+                    What a strenuous career it is that I've chosen...
+                  </span>
+                </div>
+              </li>
+              <li
+                class="media"
+              >
+                <div
+                  class="media-left"
+                >
+                  <img
+                    alt=""
+                    class="img-circle img-sm"
+                    src="../assets/images/placeholder.jpg"
+                  />
+                </div>
+                <div
+                  class="media-body"
+                >
+                  <a
+                    class="media-heading"
+                    href="#"
+                  >
+                    <span
+                      class="text-semibold"
+                    >
+                      Richard Vango
+                    </span>
+                    <span
+                      class="media-annotation pull-right"
+                    >
+                      Mon
+                    </span>
+                  </a>
+                  <span
+                    class="text-muted"
+                  >
+                    Other travelling salesmen live a life of luxury...
+                  </span>
+                </div>
+              </li>
+            </ul>
+            <div
+              class="dropdown-content-footer"
+            >
+              <a
+                data-original-title="All messages"
+                data-popup="tooltip"
+                href="#"
+                title=""
+              >
+                <i
+                  class="icon-menu display-block"
+                />
+              </a>
+            </div>
+          </div>
+        </li>
+        <li
+          class="dropdown dropdown-user"
+        >
+          <a
+            class="dropdown-toggle"
+            data-toggle="dropdown"
+          >
+            <img
+              alt=""
+              src="../assets/images/ron-carucci_avatar.jpg"
+            />
+            <span />
+            <i
+              class="caret"
+            />
+          </a>
+          <ul
+            class="dropdown-menu dropdown-menu-right"
+          >
+            <li>
+              <a
+                href="#"
+              >
+                <i
+                  class="icon-home2"
+                />
+                Home
+              </a>
+            </li>
+            <li>
+              <a
+                href="#"
+              >
+                <i
+                  class="icon-user-plus"
+                />
+                 My profile
+              </a>
+            </li>
+            <li>
+              <a
+                href="#"
+              >
+                <i
+                  class="icon-cog5"
+                />
+                 Account settings
+              </a>
+            </li>
+            <li
+              class="divider"
+            />
+            <li>
+              <a
+                href="#"
+              >
+                <i
+                  class="icon-switch2"
+                />
+                 Logout
+              </a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+`;

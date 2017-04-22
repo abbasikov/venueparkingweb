@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProfileContainer #render initial state 1`] = `
+<div
+  class="page-container profile-container"
+>
+  <div
+    class="page-content"
+  >
+    <div
+      class="content-wrapper"
+    >
+      <div
+        class="profile-cover"
+      >
+        <div
+          class="profile-cover-img"
+        />
+        <div
+          class="media"
+        >
+          <div
+            class="media-body"
+          >
+            <a
+              class="profile-thumb"
+              href="#"
+            >
+              <img
+                alt=""
+                class="img-circle"
+                src="../../assets/images/ron-carucci_avatar.jpg"
+              />
+            </a>
+            <h1>
+              Randy Shelton
+              <small
+                class="display-block"
+              >
+                Assistant Professor
+              </small>
+            </h1>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

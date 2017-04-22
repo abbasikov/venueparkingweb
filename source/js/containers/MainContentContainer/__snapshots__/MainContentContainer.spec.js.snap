@@ -1,0 +1,153 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainContentContainer #render initial state 1`] = `
+<div
+  class="page-container"
+>
+  <div
+    class="page-content"
+  >
+    <div
+      class="content-wrapper"
+    >
+      <div
+        class="panel panel-flat "
+      >
+        <div
+          class="panel-body panel-post"
+        >
+          <button
+            class="btn bg-orange-600 btn-xs"
+            type="button"
+          >
+            <i
+              class="glyphicon glyphicon-plus position-left"
+            />
+            <span>
+              POST
+            </span>
+          </button>
+        </div>
+      </div>
+      <div
+        class="l1-core-rail"
+      >
+        <div
+          class="panel post-feed delay260"
+        >
+          <div
+            class="circle"
+          />
+          <div
+            class="line-wrapper"
+          >
+            <div
+              class="line width110"
+            />
+            <div
+              class="line width250"
+            />
+          </div>
+          <div
+            class="height20"
+          />
+          <div
+            class="line width500"
+          />
+          <div
+            class="line width470"
+          />
+        </div>
+        <div
+          class="panel post-feed delay320"
+        >
+          <div
+            class="circle"
+          />
+          <div
+            class="line-wrapper"
+          >
+            <div
+              class="line width110"
+            />
+            <div
+              class="line width250"
+            />
+          </div>
+          <div
+            class="height20"
+          />
+          <div
+            class="line width500"
+          />
+          <div
+            class="line width470"
+          />
+        </div>
+        <div
+          class="panel post-feed delay380"
+        >
+          <div
+            class="circle"
+          />
+          <div
+            class="line-wrapper"
+          >
+            <div
+              class="line width110"
+            />
+            <div
+              class="line width250"
+            />
+          </div>
+          <div
+            class="height20"
+          />
+          <div
+            class="line width500"
+          />
+          <div
+            class="line width470"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="sidebar sidebar-opposite sidebar-default sidebar-separate"
+    >
+      <div
+        class="sidebar-content"
+      >
+        <div
+          class="sidebar-category"
+        >
+          <div
+            class="category-content"
+          >
+            <form
+              action="#"
+            >
+              <div
+                class="has-feedback has-feedback-left"
+              >
+                <input
+                  class="form-control"
+                  placeholder="Search"
+                  type="search"
+                />
+                <div
+                  class="form-control-feedback"
+                >
+                  <i
+                    class="icon-search4 text-size-base text-muted"
+                  />
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,176 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FeedContainer #renders when feeds are empty 1`] = `
+<div
+  class="content-wrapper"
+>
+  <div
+    class="panel panel-flat "
+  >
+    <div
+      class="panel-body panel-post"
+    >
+      <button
+        class="btn bg-orange-600 btn-xs"
+        type="button"
+      >
+        <i
+          class="glyphicon glyphicon-plus position-left"
+        />
+        <span>
+          POST
+        </span>
+      </button>
+    </div>
+  </div>
+  <div
+    class="l1-core-rail"
+  >
+    <div
+      class="panel post-feed delay260"
+    >
+      <div
+        class="circle"
+      />
+      <div
+        class="line-wrapper"
+      >
+        <div
+          class="line width110"
+        />
+        <div
+          class="line width250"
+        />
+      </div>
+      <div
+        class="height20"
+      />
+      <div
+        class="line width500"
+      />
+      <div
+        class="line width470"
+      />
+    </div>
+    <div
+      class="panel post-feed delay320"
+    >
+      <div
+        class="circle"
+      />
+      <div
+        class="line-wrapper"
+      >
+        <div
+          class="line width110"
+        />
+        <div
+          class="line width250"
+        />
+      </div>
+      <div
+        class="height20"
+      />
+      <div
+        class="line width500"
+      />
+      <div
+        class="line width470"
+      />
+    </div>
+    <div
+      class="panel post-feed delay380"
+    >
+      <div
+        class="circle"
+      />
+      <div
+        class="line-wrapper"
+      >
+        <div
+          class="line width110"
+        />
+        <div
+          class="line width250"
+        />
+      </div>
+      <div
+        class="height20"
+      />
+      <div
+        class="line width500"
+      />
+      <div
+        class="line width470"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`FeedContainer #renders when feeds are not empty 1`] = `
+<div
+  class="content-wrapper"
+>
+  <div
+    class="panel panel-flat "
+  >
+    <div
+      class="panel-body panel-post"
+    >
+      <button
+        class="btn bg-orange-600 btn-xs"
+        type="button"
+      >
+        <i
+          class="glyphicon glyphicon-plus position-left"
+        />
+        <span>
+          POST
+        </span>
+      </button>
+    </div>
+  </div>
+  <div
+    class="panel panel-flat border-top-warning"
+  >
+    <div
+      class="panel-heading"
+    >
+      <h5
+        class="panel-title feed-owner"
+      >
+        test
+        <span
+          class="label border-warning-500 text-warning-500"
+        >
+          Author
+        </span>
+      </h5>
+      <div
+        class="heading-elements selected-course"
+      >
+        <span
+          class="label border-left-warning-500 label-striped color-warning-500"
+        >
+          test
+        </span>
+      </div>
+    </div>
+    <div
+      class="panel-body"
+    >
+      <h6
+        class="text-semibold"
+      >
+        Start your development with no hassle!
+      </h6>
+      <p
+        class="content-group"
+      >
+        test
+      </p>
+    </div>
+  </div>
+</div>
+`;
